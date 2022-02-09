@@ -2,11 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-<<<<<<< HEAD
     <title>Cursos da Alura arroz</title>
-=======
-    <title>Cursos de DevOps da Alura KKKKK</title>
->>>>>>> 2ebdaf8f3447d762512d9a5e61f0487e925029e1
 </head>
 <body>
     <ul>
