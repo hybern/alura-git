@@ -10,6 +10,7 @@
         <li>Docker</li>
         <li>Ansible</li>
         <li>Integração Contínua e integrada e bananas</li>
+        <li>Arroz e feijão</li>
     </ul>
 </body>
 </html>
