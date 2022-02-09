@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Cursos de DevOps da Alura KKKKK</title>
+    <title>Cursos da Alura arroz</title>
 </head>
 <body>
     <ul>
@@ -11,6 +11,7 @@
         <li>Ansible</li>
         <li>Integração Contínua e integrada e bananas</li>
         <li>Ih ah la</li>
+        <li>Arroz e feijão</li>
     </ul>
 </body>
 </html>
