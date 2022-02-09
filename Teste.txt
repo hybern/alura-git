@@ -9,7 +9,7 @@
         <li>Vagrant</li>
         <li>Docker</li>
         <li>Ansible</li>
-        <li>Integração Contínua e integrada</li>
+        <li>Integração Contínua e integrada e bananas</li>
     </ul>
 </body>
 </html>
